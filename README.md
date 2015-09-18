@@ -1,2 +1,2 @@
 # react-refer
-react component wraping by refer.
+react component wrapping by refer.
