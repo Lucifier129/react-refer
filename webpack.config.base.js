@@ -13,7 +13,8 @@ module.exports = {
   resolve: {
     extensions: ['', '.js'],
     alias: {
-      refer: __dirname + '/refer.js'
+      'refer': __dirname + 'vendor/refer.js',
+      'refer-logger': __dirname + 'vendor/logger.js'
     }
   }
 };
