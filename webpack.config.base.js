@@ -11,10 +11,6 @@ module.exports = {
     libraryTarget: 'umd'
   },
   resolve: {
-    extensions: ['', '.js'],
-    alias: {
-      'refer': __dirname + 'vendor/refer.js',
-      'refer-logger': __dirname + 'vendor/logger.js'
-    }
+    extensions: ['', '.js']
   }
 };
