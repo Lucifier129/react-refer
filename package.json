@@ -1,6 +1,6 @@
 {
   "name": "react-refer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "react component wrapping by refer",
   "main": "dist/react-refer.js",
   "scripts": {
